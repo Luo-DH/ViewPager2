@@ -2,7 +2,7 @@
 
 ViewPager2的简单DEMO
 
-![screenshot](./screenshot/1.png)
+![screenshot](./screenshot/1.png = 300x)
 
 参考
 
