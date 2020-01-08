@@ -2,8 +2,10 @@
 
 ViewPager2的简单DEMO
 
-![screenshot](./screenshot/1.png)
+## 预览
 
-参考
+<img src="./screenshot/1.png" height="400">
+
+## 参考
 
 https://developer.android.com/training/animation/screen-slide-2
